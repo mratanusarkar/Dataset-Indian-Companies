@@ -1,5 +1,5 @@
 # dataset-indian-companies
-[![HitCount](http://hits.dwyl.com/mratanusarkar/https://githubcom/mratanusarkar/dataset-indian-companies.svg)](http://hits.dwyl.com/mratanusarkar/https://githubcom/mratanusarkar/dataset-indian-companies)
+[![HitCount](https://hits.dwyl.com/mratanusarkar/dataset-indian-companies.svg?style=flat)](http://hits.dwyl.com/mratanusarkar/dataset-indian-companies)
 
 Web Scraping "List of companies in India" from [AmbitionBox](https://www.ambitionbox.com/) Website using Python and Beautiful Soup Library.
 
