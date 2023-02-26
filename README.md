@@ -12,3 +12,6 @@ Total number of datapoints: 452520
 The process of scraping is explained in [this](https://github.com/mratanusarkar/dataset-indian-companies/blob/master/AmbitionBox%2020-04-2020.ipynb) Jupyter Notebook.
 
 The data was scraped using [this](https://github.com/mratanusarkar/dataset-indian-companies/blob/master/scraper.py) Python Script.
+
+Kaggle link [here](https://www.kaggle.com/datasets/mratanusarkar/list-of-companies-in-india).
+Feel free to post your usage with this data on Kaggle.
